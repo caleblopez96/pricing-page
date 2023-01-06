@@ -16,6 +16,7 @@ html {
 header {
     color: #fafafa;
     display: flex;
+    align-items: center;
     flex-direction: row;
     gap: 2rem;
     padding: 1rem;
