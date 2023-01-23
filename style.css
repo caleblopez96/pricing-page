@@ -10,7 +10,7 @@
 }
 
 html {
-  background-color: #F8F8FF;
+  background-color: #353839;
 }
 
 header {
@@ -27,6 +27,10 @@ a,
 a:visited {
   color: #353839;
   text-decoration: none;
+}
+
+a:hover {
+  transform: scale(1.1);
 }
 
 header span:first-child {
